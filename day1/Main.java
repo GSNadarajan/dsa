@@ -34,5 +34,12 @@ public class Main {
         }
         System.out.println(stack);
 
+
+        //uses of stack ?
+        //1. undo /redo features in text editor
+        //2. moving back/fro in browser history
+        //3.backtracking
+        
+
     }
 }
